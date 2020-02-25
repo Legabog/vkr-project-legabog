@@ -1,0 +1,15 @@
+.Results {
+    padding: 20px;
+    color: #fff;
+    border: 2px solid rgb(124, 126, 122);
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.Results:hover {
+    border: 1px solid rgb(116, 108, 108);
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, .14);
+    cursor: pointer;
+}

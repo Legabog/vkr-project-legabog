@@ -1,0 +1,54 @@
+.Button {
+    display: inline-block;
+    padding: 10px 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;    
+}
+
+.Button:focus {
+    outline: none;
+}
+
+.Button:active {
+    box-shadow: inset 2px 2px 1px rgba(0, 0, 0, .4);
+}
+
+.Button:disabled {
+    background: #ccc;
+    color: #000;
+    cursor: not-allowed;
+}
+
+.cleanup {
+    background: rgba(235, 3, 3, 1); 
+    color: #fff;
+}
+
+.cleanupTask3 {
+    background: rgba(235, 3, 3, 1); 
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 520px;
+}
+
+.success {
+    background: rgba(127, 206, 23, 1);
+    color: #fff;
+}
+.successTask3 {
+    background: rgba(127, 206, 23, 1);
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+}
+
+.primary {
+    background: #2884f6;
+    color: #fff;
+}

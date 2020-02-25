@@ -1,0 +1,12 @@
+.Glicko {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+    background: linear-gradient(270deg, #8edcee 0%, #0979ad 100%);
+}
+
+.Glicko h1 {
+    color: #fff;
+}

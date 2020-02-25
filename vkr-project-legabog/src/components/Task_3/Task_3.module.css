@@ -1,0 +1,54 @@
+.Task_3 {
+    padding: 20px;
+    color: #fff;
+    border: 2px solid rgb(124, 126, 122);
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin-bottom: 100px;   
+} 
+
+
+.Task_3:hover {
+    border: 1px solid rgb(116, 108, 108);
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, .15);
+    cursor: pointer;
+}
+
+.Task_3 ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.Task_3 ul li {
+   text-align: -webkit-match-parent;
+   margin-bottom: 10px;
+}
+
+.Task_3_1 {
+    display: flex;
+    padding: 20px;
+    color: #fff;
+    border: 2px solid rgb(124, 126, 122);
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin: 0;   
+} 
+
+
+.Task_3_1:hover {
+    border: 1px solid rgb(116, 108, 108);
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, .15);
+    cursor: pointer;
+}
+
+.Task_3_1 ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.Task_3_1 ul li {
+   text-align: -webkit-match-parent;
+   margin-bottom: 10px;
+}
